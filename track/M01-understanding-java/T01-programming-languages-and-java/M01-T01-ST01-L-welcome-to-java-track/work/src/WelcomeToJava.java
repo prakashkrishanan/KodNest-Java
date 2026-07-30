@@ -7,5 +7,7 @@ public class WelcomeToJava {
         System.out.println("Now I am learning how to express that logic using Java.");
         System.out.println("my idolo is msd");
         System.out.println("now i know how to pust git");
+        System.out.println("scratchlairrunthu arambikkiren,innaikku Day 1,alright");
+
     }
 }
